@@ -1,12 +1,1 @@
-{
-  "users": [
-    {
-      "username": "wira",
-      "password": "$2b$10$7jsjIEE5Yg9HV3ocu.jFPOKObI8qXFb/bNDjZKpvhiV6LbM7R1H9O",
-      "number": null,
-      "createdAt": "2025-03-28T13:11:46.733Z",
-      "blocked": false
-    }
-  ],
-  "blocked": []
-}
+[]
