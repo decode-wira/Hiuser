@@ -14,6 +14,21 @@
       "createdAt": "2025-05-15T15:03:48.250Z",
       "otp": null,
       "otpExpiration": null
+    },
+    {
+      "id": "6399846e-2c3b-45d2-a776-8ad822db8ba8",
+      "username": "linedev1",
+      "password": "$2b$05$Z5orW3uOHRgAABj2oPoXiOIMHkHZOfbtPXwkx20YqTF2MpI9k6c6u",
+      "email": "tampanwria53@gmail.com",
+      "phone": "628568782065",
+      "apikey": "Liwirya Tech-444593b4d7",
+      "limit": 1500,
+      "plan": "basic",
+      "planExpiresAt": null,
+      "emailVerified": false,
+      "createdAt": "2025-05-15T15:10:08.165Z",
+      "otp": "446980",
+      "otpExpiration": "2025-05-15T15:25:08.163Z"
     }
   ],
   "historyRequest": {},
