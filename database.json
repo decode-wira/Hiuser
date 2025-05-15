@@ -10,10 +10,10 @@
       "limit": 1500,
       "plan": "basic",
       "planExpiresAt": null,
-      "emailVerified": false,
+      "emailVerified": true,
       "createdAt": "2025-05-15T15:17:25.615Z",
-      "otp": "120463",
-      "otpExpiration": "2025-05-15T15:32:25.613Z"
+      "otp": null,
+      "otpExpiration": null
     }
   ],
   "historyRequest": {},
