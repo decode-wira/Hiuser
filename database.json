@@ -1,1 +1,27 @@
-
+{
+  "users": [
+    {
+      "isBanned": false,
+      "banExpiresAt": null
+    },
+    {
+      "id": "c2903f0b-34b4-4081-81f2-8c4f066a52a8",
+      "username": "Liwirya",
+      "password": "$2b$05$mW0h/PwlG7YxhFe5Oxn/EuOIcxm9jWC8jIOzEb9QpYHxc9llwRuJu",
+      "email": "wiraliwirya@gmail.com",
+      "phone": "628568782064",
+      "apikey": "Liwirya Tech-43e7e38ff9",
+      "limit": 1500,
+      "plan": "basic",
+      "planExpiresAt": null,
+      "emailVerified": false,
+      "createdAt": "2025-05-15T14:56:02.789Z",
+      "otp": "351127",
+      "otpExpiration": "2025-05-15T15:11:02.786Z"
+    }
+  ],
+  "historyRequest": {},
+  "count": 0,
+  "visitor": 0,
+  "deposits": []
+}
