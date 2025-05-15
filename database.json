@@ -14,6 +14,21 @@
       "createdAt": "2025-05-15T15:17:25.615Z",
       "otp": null,
       "otpExpiration": null
+    },
+    {
+      "id": "5763f595-a4b9-46a2-ae87-dfed6b6c37c4",
+      "username": "Lwiirya Texh",
+      "password": "$2b$05$MvFELs3rWABgprMu5aoHe.2d.d6PRJBEpSJ.AxxDEQva5gGkAKXUK",
+      "email": "wiraliwirya@gmail.com",
+      "phone": "628568782063",
+      "apikey": "Liwirya Tech-5524aa8a1c",
+      "limit": 1500,
+      "plan": "basic",
+      "planExpiresAt": null,
+      "emailVerified": false,
+      "createdAt": "2025-05-15T15:20:05.378Z",
+      "otp": "999792",
+      "otpExpiration": "2025-05-15T15:35:05.378Z"
     }
   ],
   "historyRequest": {},
