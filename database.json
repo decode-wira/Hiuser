@@ -1,1 +1,23 @@
-[]
+{
+  "users": [
+    {
+      "id": "a0c0bd2c-fd30-4f03-98b3-6660746c847a",
+      "username": "Lwiirya Tech",
+      "password": "$2b$05$n9Iuve0b9D4.ON4A1OBdxOKO9liJLJeqKW2i973pyZRBEAqPRRo66",
+      "email": "wiraliwirya@gmail.com",
+      "phone": "628568782064",
+      "apikey": "Liwirya Tech-9c137fa59a",
+      "limit": 1500,
+      "plan": "basic",
+      "planExpiresAt": null,
+      "emailVerified": false,
+      "createdAt": "2025-05-16T01:46:19.730Z",
+      "otp": "318216",
+      "otpExpiration": "2025-05-16T02:01:19.725Z"
+    }
+  ],
+  "historyRequest": {},
+  "count": 0,
+  "visitor": 0,
+  "deposits": []
+}
