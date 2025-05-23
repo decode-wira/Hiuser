@@ -15,6 +15,21 @@
       "otp": null,
       "otpExpiration": null,
       "lastReset": "2025-05-18"
+    },
+    {
+      "id": "238ba2ba-5069-4d4e-8cf7-99a8cef4f4a5",
+      "username": "Rerezz",
+      "password": "$2b$05$7qq9G4gWHxqrXvOnLab51OYNtoFw0AgpinDKYiLG9kdp.dMJb.c82",
+      "email": "rerezhosting@gmail.com",
+      "phone": "62800000000",
+      "apikey": "Liwirya Tech-addd073fa8",
+      "limit": 1500,
+      "plan": "basic",
+      "planExpiresAt": null,
+      "emailVerified": false,
+      "createdAt": "2025-05-23T17:29:23.068Z",
+      "otp": "762500",
+      "otpExpiration": "2025-05-23T17:44:23.065Z"
     }
   ],
   "historyRequest": {
