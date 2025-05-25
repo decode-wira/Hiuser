@@ -7,7 +7,7 @@
       "email": "wiraliwirya@gmail.com",
       "phone": "628568782064",
       "apikey": "Liwirya Tech-9c137fa59a",
-      "limit": 14982,
+      "limit": 14981,
       "plan": "Owner",
       "planExpiresAt": null,
       "emailVerified": true,
@@ -37,9 +37,9 @@
     "2025-05-17": 13,
     "2025-05-18": 3,
     "24 Mei": 18,
-    "25 Mei": 18
+    "25 Mei": 19
   },
-  "count": 78,
+  "count": 79,
   "visitor": 0,
   "deposits": []
 }
